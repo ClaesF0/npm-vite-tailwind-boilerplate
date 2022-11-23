@@ -20,7 +20,8 @@ For this project you need to be familiar with:
 
 Once these steps are set up, please: 
 1: open your terminal (bash is my preferred)
-2: change directory (type "cd" (on Windows)) until you are in 
+2: 'dir' in terminal to assure you are in the directory "/YOUR SOURCE/npm-vite-boilerplate-2/Tailwind-boilerplate"
+if not, then change directory (type "cd" (on Windows)) until you are in 
 "/YOUR SOURCE/npm-vite-boilerplate-2/Tailwind-boilerplate"
 
 3: "npm run build"
