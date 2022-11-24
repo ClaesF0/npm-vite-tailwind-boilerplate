@@ -17,6 +17,7 @@ For this project you need to be familiar with:
         Additional tools:
         https://www.npmjs.com/package/lint
         https://github.com/prettier/prettier
+        https://jestjs.io/docs/getting-started
 
 Once these steps are set up, please: 
 1: open your terminal (bash is my preferred)
